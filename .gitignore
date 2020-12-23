@@ -1,0 +1,15 @@
+# python env files
+.ven/
+
+# env files
+.env
+
+# db
+db.sqlite3
+
+# others
+.vscode/
+poetry.lock
+.python-version
+migrations/
+*__pycache__/
