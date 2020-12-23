@@ -1,0 +1,12 @@
+# python env files
+.ven/
+
+# env files
+.env
+
+# others
+.vscode/
+poetry.loc
+.python-version
+migrations/
+*__pycache__/
