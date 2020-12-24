@@ -5,11 +5,14 @@
 .env
 
 # db
-db.sqlite3
+migrations/
+
+# static files
+*.css
+*.map
 
 # others
 .vscode/
 poetry.lock
 .python-version
-migrations/
 *__pycache__/
