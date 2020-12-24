@@ -16,3 +16,4 @@ migrations/
 poetry.lock
 .python-version
 *__pycache__/
+media/
