@@ -1,0 +1,15 @@
+# python env files
+.venv/
+
+# env files
+.env
+
+# static files
+*.css
+*.map
+
+# others
+.vscode/
+.python-version
+*__pycache__/
+media/
